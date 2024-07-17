@@ -1,0 +1,48 @@
+h3 {
+  padding: 1rem;
+  text-align: center;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 6;
+}
+
+ul li{
+    margin: 1rem;
+}
+
+ul li label {
+  cursor: pointer;
+  font-size: 20px;
+  padding-left: 5px ;
+}
+
+button {
+  background-color: #8e44ad;
+  color: #fff;
+  font-size: 20px;
+  border:none;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 0;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+button:focus {
+    outline: none;
+    background-color: #5e3370; 
+  }
+
+button:hover {
+  background-color: #732d91;
+  color: white;
+}
+
+
+  
+
